@@ -1,6 +1,4 @@
 Step 1:  created by Javi on 9/16/26 at 2:07
-<<<<<<< HEAD
-line added by Jack on 9/16 at 2:14pm
-=======
 Step 3:  added by Javi on 9/16/26 at 2:11pm
->>>>>>> e7aad3c0849d3062b2147cb8fc674608428617d5
+Step 4:  line added by Javi on 9/16/26 at 2:13pm
+Step 4:  line added by Jack on 9/16/26 at 2:14pm
